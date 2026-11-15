@@ -1,0 +1,22 @@
+{
+  "wheel_id": 899,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-129",
+  "project": "retaining-wall-builders-geelong-before-you-start-acd59e9605f918",
+  "parent_t1_ref": "retainingwallgeelong-164",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall builders geelong before you start",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-geelong-before-you-start-acd59e9605f918/",
+  "tier": "T2",
+  "writeback_nonce": "90274d74e97b3820",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-geelong-myths-d00c0e46e17f1f843c6e94bc2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "a guide to retaining wall builders geelong myths",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
